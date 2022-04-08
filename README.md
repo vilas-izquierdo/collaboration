@@ -1,1 +1,3 @@
 # collaboration
+
+javascript is cool
